@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishvan&label=Profile%20views&color=0e75b6&style=flat" alt="rishvan" /> </p>
 
-- 🌱 I’m currently learning **Laravel, Bootstrap and React.js**
+- 🌱 I’m currently learning **Node Js,TypeScript, React.js ,Next Js , Flutter**
 
 - 📫 How to reach me **rishvanrv7@gmail.com**
 
