@@ -1,12 +1,10 @@
 <p align="center">
-  <!-- Your profile image -->
-  <img src="assets/profile.png" width="120" style="border-radius:50%; margin-right:20px; vertical-align:middle;" />
-  <!-- Animated banner with your name -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=120&section=header&text=Hi,+I'm+Your+Rishvan+M!+👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" style="vertical-align:middle;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=200&section=header&text=Hi,+I'm+Your+Name!+👋&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 </p>
 
+<!-- Profile image on top of banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Engineer;Flutter+Developer;Cloud+%26+DevOps" />
+  <img src="assets/profile.png" width="150" style="border-radius:50%; margin-top:-100px; border:5px solid white;" />
 </p>
 
 <!-- <h1 align="center">Hi 👋, I'm [Your Name]</h1>
