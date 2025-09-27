@@ -13,11 +13,11 @@
 <h3 align="center">Full-Stack Developer | MERN | Flutter | Cloud | DevOps Enthusiast</h3> -->
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/rishvan">
+    <img src="https://komarev.com/ghpvc/?username=rishvan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social&color=blue" alt="Followers" />
+  <a href="https://github.com/rishvan?tab=followers">
+    <img src="https://img.shields.io/github/followers/rishvan?label=Followers&style=social&color=blue" alt="Followers" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
     <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social" alt="Twitter Follow"/>
