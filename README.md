@@ -4,7 +4,7 @@
 
 <!-- Profile image on top of banner -->
 <p align="center">
-  <img src="asset/me.png" width="150" style="border-radius:50%; margin-top:-100px; border:5px solid white;" />
+  <img src="asset/me.jpg" width="150" style="border-radius:50%; margin-top:-100px; border:5px solid white;" />
 </p>
 
 <!-- <h1 align="center">Hi 👋, I'm [Your Name]</h1>
