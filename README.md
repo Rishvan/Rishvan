@@ -17,9 +17,9 @@
   <a href="https://github.com/rishvan?tab=followers">
     <img src="https://img.shields.io/github/followers/rishvan?label=Followers&style=social&color=blue" alt="Followers" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
+  <!-- <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
     <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social" alt="Twitter Follow"/>
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -30,7 +30,7 @@
 - 👯 Open to collaborate on **Open Source & Innovative Projects**  
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, Flutter, Docker**  
 - ⚡ Passionate about **clean code, performance, and modern architectures**  
-- 📫 Reach me: **youremail@example.com**
+- 📫 Reach me: **rishvanrv7@gmail.com**
 
 ---
 
@@ -80,7 +80,7 @@
 ---
 
 ## 🚀 Featured Projects
-<table>
+<!-- <table>
 <tr>
 <td width="50%">
 <h3 align="center">Project 1</h3>
@@ -99,7 +99,7 @@
 </p>
 </td>
 </tr>
-</table>
+</table> -->
 
 ---
 
