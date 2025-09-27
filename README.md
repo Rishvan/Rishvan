@@ -124,7 +124,7 @@
 </p>
 
 
-<!-- Animated footer -->
+<!-- Full-width animated footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=120&section=footer&text=Thanks+for+visiting!&fontSize=35&fontColor=ffffff&animation=twinkle" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=150&section=footer&text=Thanks+for+visiting!&fontSize=40&fontColor=ffffff&animation=twinkle" width="100%"/>
 </p>
