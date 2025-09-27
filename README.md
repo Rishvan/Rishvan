@@ -107,7 +107,7 @@
   <a href="https://rishvan.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourname" target="_blank">
+  <a href="https://linkedin.com/in/rishvan-m-8805a623a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rishvanrv7@gmail.com">
