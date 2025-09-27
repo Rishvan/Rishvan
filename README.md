@@ -69,10 +69,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishvan&show_icons=true&theme=radical&count_private=true" height="180px"/>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishvan&layout=compact&theme=radical" height="180px"/>
 
-</p>
+</p> -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rishvan&theme=radical"/>
 </p>
