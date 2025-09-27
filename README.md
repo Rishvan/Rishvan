@@ -77,7 +77,7 @@
   <img src="https://streak-stats.demolab.com?user=rishvan&theme=radical"/>
 </p>
 
----
+<!---
 
 ## 🚀 Featured Projects
 <!-- <table>
@@ -100,8 +100,7 @@
 </td>
 </tr>
 </table> -->
-
----
+<!-->
 
 ## 🌍 Connect with Me
 <p align="center">
