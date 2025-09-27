@@ -1,3 +1,10 @@
+<p align="center">
+  <!-- Your profile image -->
+  <img src="assets/profile.png" width="120" style="border-radius:50%; margin-right:20px; vertical-align:middle;" />
+  <!-- Animated banner with your name -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=120&section=header&text=Hi,+I'm+Your+Name!+👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" style="vertical-align:middle;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">Full-Stack Developer | MERN | Flutter | Cloud | DevOps Enthusiast</h3>
 
