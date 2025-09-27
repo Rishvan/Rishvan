@@ -2,7 +2,7 @@
   <!-- Your profile image -->
   <img src="assets/profile.png" width="120" style="border-radius:50%; margin-right:20px; vertical-align:middle;" />
   <!-- Animated banner with your name -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=120&section=header&text=Hi,+I'm+Your+Name!+👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" style="vertical-align:middle;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=120&section=header&text=Hi,+I'm+Your+Rishvan+M!+👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" style="vertical-align:middle;" />
 </p>
 
 <p align="center">
