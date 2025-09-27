@@ -124,3 +124,9 @@
 <p align="center">
   ✨ *“Code is like a game: strategy, skills, and execution matter.”*
 </p>
+
+
+<!-- Animated footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=120&section=footer&text=Thanks+for+visiting!&fontSize=35&fontColor=ffffff&animation=twinkle" />
+</p>
