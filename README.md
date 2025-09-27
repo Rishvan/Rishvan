@@ -63,7 +63,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
 
----
+<!---
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -72,7 +72,7 @@
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishvan&layout=compact&theme=radical" height="180px"/>
 
-</p> -->
+</p> -
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rishvan&theme=radical"/>
 </p>
