@@ -5,8 +5,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=120&section=header&text=Hi,+I'm+Your+Name!+👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" style="vertical-align:middle;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Full-Stack Developer | MERN | Flutter | Cloud | DevOps Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Engineer;Flutter+Developer;Cloud+%26+DevOps" />
+</p>
+
+<!-- <h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">Full-Stack Developer | MERN | Flutter | Cloud | DevOps Enthusiast</h3> -->
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
