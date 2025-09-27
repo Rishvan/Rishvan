@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=200&section=header&text=Hi,+I'm+Your+Name!+👋&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=200&section=header&text=Hi,+I'm+Your+Rishvan!+👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 </p>
 
 <!-- Profile image on top of banner -->
